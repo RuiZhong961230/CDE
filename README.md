@@ -12,7 +12,7 @@ This paper introduces a novel competitive mechanism into differential evolution 
   eprint={2406.05436},  
   archivePrefix={arXiv},  
   primaryClass={cs.NE},  
-  url={https://arxiv.org/abs/2406.05436},   
+  url={https://arxiv.org/abs/2406.05436 },   
   note={Accepted by The 30th Int'l Conf on Parallel and Distributed Processing Techniques and Applications (PDPTA'24)}
 }
 
